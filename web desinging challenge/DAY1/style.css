@@ -1,0 +1,24 @@
+button{
+    background-color: darkmagenta;
+    color: bisque;
+}
+#in{
+    color: blueviolet;
+    background-color: aquamarine;
+}
+.content{
+    color:azure;
+    background-color: darkgreen;
+}
+div{
+    width: 400px;
+    height: 300px;
+    background-color: #8f8b8a;
+    margin-top: 30px;
+    margin-left: 40px;
+    padding-top: 50px;
+    padding-left: 400px;
+    border: 6px solid;
+    border-color: black;
+
+}
